@@ -1,3 +1,32 @@
+# 📊 Projeto de Análise de Dados – Cancelamentos
+
+Este repositório contém um projeto de **análise exploratória de dados**, desenvolvido em Jupyter Notebook, voltado para investigar padrões e características relacionadas aos **cancelamentos** presentes no conjunto de dados `cancelamentos.csv`.
+
+O objetivo é aplicar técnicas de análise de dados para:
+- compreender a estrutura dos dados;
+- encontrar padrões relevantes;
+- gerar insights que ajudem na interpretação dos cancelamentos;
+- demonstrar habilidade em manipulação e visualização de dados com Python.
+
+---
+
+## 🧰 Tecnologias e Ferramentas Utilizadas
+
+Este projeto foi construído utilizando:
+
+- **Python**
+- **Jupyter Notebook**
+- **Pandas** – manipulação de dados
+- **Plotly** – visualização de dados
+- **CSV** – formato de dados tabular
+
+---
+
+## 📂 Estrutura do Projeto
+
+- .gitignore # Configura arquivos ignorados pelo Git
+- cancelamentos.csv # Conjunto de dados com informações sobre cancelamentos
+- inicial.ipynb # Notebook com análise exploratória de dados
 
 ---
 
@@ -11,7 +40,7 @@ No notebook `inicial.ipynb` são realizadas etapas típicas de análise de dados
 4. **Geração de gráficos descritivos**
 5. **Discussão de descobertas importantes**
 
-Esse fluxo segue boas práticas para um projeto de análise exploratória de dados. :contentReference[oaicite:1]{index=1}
+Esse fluxo segue boas práticas para um projeto de análise exploratória de dados.
 
 ---
 
